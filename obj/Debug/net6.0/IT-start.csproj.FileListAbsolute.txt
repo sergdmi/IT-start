@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\GB\IT-start\bin\Debug\net6.0\IT-start.exe
+C:\Users\Sergey\Desktop\GB\IT-start\bin\Debug\net6.0\IT-start.deps.json
+C:\Users\Sergey\Desktop\GB\IT-start\bin\Debug\net6.0\IT-start.runtimeconfig.json
+C:\Users\Sergey\Desktop\GB\IT-start\bin\Debug\net6.0\IT-start.dll
+C:\Users\Sergey\Desktop\GB\IT-start\bin\Debug\net6.0\IT-start.pdb
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.dll
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\refint\IT-start.dll
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.pdb
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\IT-start.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\GB\IT-start\obj\Debug\net6.0\ref\IT-start.dll
