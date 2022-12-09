@@ -66,8 +66,8 @@ string[] array1 = CreateArray1(size);
 FillArrayConsole(array1);
 Console.Write("Вывод масcива 1:");
 Console.WriteLine(Print(array1));
-int newsize = ValueCount(array1);
-string[] array2 = CreateArray2(array1, newsize);
+int size2 = ValueCount(array1);
+string[] array2 = CreateArray2(array1, size2);
 Console.Write("Вывод масcива 2:");
 Console.WriteLine(Print(array2));
 
